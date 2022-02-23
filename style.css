@@ -2,7 +2,17 @@ h1 {
     background-color: teal;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 10px 20px 10px 20px;
+    width: auto;
+    border-style: outset;
+    border-width: 5px;
+    border-color: turquoise;
     border-radius: 10px;
     
+}
+
+#recipe-list {
+    font-size: 20px;
+    color: black;
+    align-content: center;
 }
