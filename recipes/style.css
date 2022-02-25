@@ -6,7 +6,7 @@ h1 {
     width: auto;
     border-style: outset;
     border-width: 5px;
-    border-color: turquoise;
+    border-color: honeydew;
     border-radius: 10px;
 }
 
@@ -17,15 +17,24 @@ h1 {
     margin-right: auto;
 }
 
+h2 {
+    
+}
 
 .description {
     background-color: white;
     color: black;
-    text-align: left, justify;
+    text-align: centre, justify;
     padding: 5px 10px 5px 10px;
     width: 600px;
     height: auto;
 
+
+}
+
+#container {
+    display: inline-flex;
+    
 
 }
 
@@ -37,12 +46,10 @@ h1 {
     width: 400px;
     height: auto;
     border-style: solid;
-    border-width: 5px;
+    border-width: 3px;
     border-color: black;
     border-radius: 10px;
-    margin-left: 30px;
-    margin-right: auto;
-    display: block;
+    
 }
 
 .method {
@@ -53,10 +60,9 @@ h1 {
     width: 400px;
     height: auto;
     border-style: solid;
-    border-width: 5px;
+    border-width: 3px;
     border-color: black;
     border-radius: 10px;
-    margin-left: auto;
-    margin-right: 30px;
-    display: block;
+    
 }
+
